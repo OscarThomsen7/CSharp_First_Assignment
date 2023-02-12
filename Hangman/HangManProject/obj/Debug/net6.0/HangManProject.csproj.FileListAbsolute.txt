@@ -1,0 +1,30 @@
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.exe
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.deps.json
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.runtimeconfig.json
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.dll
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.pdb
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.csproj.AssemblyReference.cache
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.AssemblyInfoInputs.cache
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.AssemblyInfo.cs
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.csproj.CoreCompileInputs.cache
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.dll
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\refint\HangManProject.dll
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.pdb
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.genruntimeconfig.cache
+C:\Users\oscar\RiderProjects\Hangman\HangManProject\obj\Debug\net6.0\ref\HangManProject.dll
+C:\Users\oscar\github repos\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.exe
+C:\Users\oscar\github repos\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.deps.json
+C:\Users\oscar\github repos\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.runtimeconfig.json
+C:\Users\oscar\github repos\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.dll
+C:\Users\oscar\github repos\Hangman\HangManProject\bin\Debug\net6.0\HangManProject.pdb
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.csproj.AssemblyReference.cache
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.AssemblyInfoInputs.cache
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.AssemblyInfo.cs
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.csproj.CoreCompileInputs.cache
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.dll
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\refint\HangManProject.dll
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.pdb
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\HangManProject.genruntimeconfig.cache
+C:\Users\oscar\github repos\Hangman\HangManProject\obj\Debug\net6.0\ref\HangManProject.dll
